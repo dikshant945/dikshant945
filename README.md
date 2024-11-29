@@ -62,8 +62,8 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.00 CGPA | Nov 21 - Nov 24 |
-| 10+2 (PCM) | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88 | May 19 - Jul 20 |
+| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8 CGPA | Nov 21 - Nov 24 |
+| 10+2 (PCM) | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88% | May 19 - Jul 20 |
 | 10  | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School SGNR - CBSE | 82% | Jan 17 - Feb 18 |
 
 
