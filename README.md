@@ -62,28 +62,30 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.00 CGPA | Nov 21 - Nov 24 |
-| 10+2 (PCM) | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88 | May 19 - Jul 20 |
+| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8 CGPA | Nov 21 - Nov 24 |
+| 10+2 (PCM) | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88% | May 19 - Jul 20 |
 | 10  | <img src="" width="30" height="30"/> | Army Public School SGNR - CBSE | 82% | Jan 17 - Feb 18 |
 
 
 <br>
 
-<h2>⚙️ Projects  </h2>
+<h2>⚙️ Projects & Learning  </h2>
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
 | Movie Critics  | [Code](https://github.com/maityamit/Github-Peek-Android-App) | ```Spring-Boot``` ```Java``` ```React-JS``` | https://react-movie-app-one-chi.vercel.app/ | Sep 23 - Oct 23 |
 
+| System Design With Head First Design Pattern  | https://github.com/dikshant945/SystemDesign | ```LLD``` ```Java``` | | Sep 24 - Present |
+
 
 <br>
 
-<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+<h3 align="left">⭐ Connect with me on social media & Coding Profile 📲 </h3>
 
-
-| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
+| LinkedIn | GitHub | Leetcode | Codeforces | X | Instagram | Email |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| <p align="center"><a href="https://www.linkedin.com/in/dikshantsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p> | <p align="center"><a href="https://github.com/dikshant945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></p> | <p align="center"><a href="https://leetcode.com/dikshant_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a></p> | <p align="center"><a href="https://codeforces.com/profile/diks_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a></p> | <p align="center"><a href="https://auth.geeksforgeeks.org/user/mgkunwar999/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="GFG" height="30" width="40" /></a></p> | <p align="center"><a href="mailto:dikshantsharma945@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a></p> |
+| <p align="center"><a href="https://www.linkedin.com/in/dikshantsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p> | <p align="center"><a href="https://github.com/dikshant945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></p> | <p align="center"><a href="https://leetcode.com/dikshant_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a></p> | <p align="center"><a href="https://codeforces.com/profile/diks_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a></p> | <p align="center"><a href="https://x.com/Dikshan66043420?t=BoltFW0qGjyOirUcxn_M_A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></p> | <p align="center"><a href="mailto:dikshantsharma945@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a></p> |
+
 
    
 <br>
