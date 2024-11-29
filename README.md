@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td>Software Engineer - Backend</td>
-      <td><img src="/home/dikshant/Desktop/projects/dikshant945/Main/1728298894460.jpeg" width="30" height="30"/> <br> <a href="https://www.ofbusiness.com">OfBusiness</a></td>
+      <td><img src="https://github.com/dikshant945/dikshant945/blob/main/Main/1728298894460.jpeg" width="30" height="30"/> <br> <a href="https://www.ofbusiness.com">OfBusiness</a></td>
       <td>
         <code>Java</code> <code>Spring-Boot</code> <br> <code>MicroServices</code> <code>Selenium</code> <br> <code>Python</code> <code>MongoDB</code> <br> <code>Amazon S3</code> <code>Redis</code>
       </td>
@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>Backend SDE Intern</td>
-      <td><img src="/home/dikshant/Desktop/projects/dikshant945/Main/1728298894460.jpeg" width="30" height="30"/> <br> <a href="https://www.ofbusiness.com">OfBusiness</a></td>
+      <td><img src="https://github.com/dikshant945/dikshant945/blob/main/Main/1728298894460.jpeg" width="30" height="30"/> <br> <a href="https://www.ofbusiness.com">OfBusiness</a></td>
       <td>
         <code>Java</code> <code>Spring-Boot</code> <br> <code>MicroServices</code> <code>Python</code> <br> <code>Amazon S3</code> <code>Amazon-SQS</code> <br> <code>MongoDB</code>
       </td>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>Full Stack Developer Intern</td>
-      <td><img src="/home/dikshant/Desktop/projects/dikshant945/Main/Dotpe_Logo_1.jpg" width="30" height="30"/> <br> <a href="https://www.dotpe.in">Dotpe Pvt Ltd</a></td>
+      <td><img src="https://github.com/dikshant945/dikshant945/blob/main/Main/Dotpe_Logo_1.jpg" width="30" height="30"/> <br> <a href="https://www.dotpe.in">Dotpe Pvt Ltd</a></td>
       <td>
         <code>Node.js</code> <code>React.js</code> <br> <code>Ext.js</code> <code>MongoDB</code> <br> <code>Postman</code> <code>Python</code> <br> <code>Snowflake</code>
       </td>
@@ -63,8 +63,8 @@
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
 | BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.00 CGPA | Nov 21 - Nov 24 |
-| 10+2 (PCM) | <img src="/home/dikshant/Desktop/projects/dikshant945/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88 | May 19 - Jul 20 |
-| 10  | <img src="/home/dikshant/Desktop/projects/dikshant945/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School SGNR - CBSE | 82% | Jan 17 - Feb 18 |
+| 10+2 (PCM) | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88 | May 19 - Jul 20 |
+| 10  | <img src="" width="30" height="30"/> | Army Public School SGNR - CBSE | 82% | Jan 17 - Feb 18 |
 
 
 <br>
@@ -90,10 +90,8 @@
 
 
 ## 📊 GitHub Activity
-| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maityamit&theme=radical)                                                                                                           |
+| ![Dikshant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshant945&show_icons=true&theme=radical) | ![Dikshant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshant945&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant945&langs_count=8&theme=radical&layout=compact) |
-
-
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
