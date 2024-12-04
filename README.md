@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Dikshant Sharma</h1>
-<h3 align="center">In Love with programming , from India</h3>
+<h3 align="center">In Love with programming, from India</h3>
 
 
 <h2>💻 Experience</h2>
