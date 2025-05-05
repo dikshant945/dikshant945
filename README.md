@@ -87,10 +87,4 @@
    
 <br>
 
-
-## 📊 GitHub Activity
-| ![Dikshant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshant945&show_icons=true&theme=radical) | ![Dikshant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshant945&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant945&langs_count=8&theme=radical&layout=compact) |
-
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
